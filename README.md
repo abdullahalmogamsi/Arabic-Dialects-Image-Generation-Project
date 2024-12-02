@@ -1,1 +1,0 @@
-# arabic_dialects_with_transformation_TEXT_TO_Image
