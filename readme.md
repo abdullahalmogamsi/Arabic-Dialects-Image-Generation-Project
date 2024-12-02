@@ -141,6 +141,11 @@ This project is an interactive interface for generating images based on prompts 
 
 ### Prompts for Testing Arabic Dialects
 
+#### Saudi Dialect
+
+- "طفل يرتدي الزي الوطني السعودي ويلعب الكرة."
+- "شاب يشرب قهوة في الصحراء."
+
 #### Egyptian Dialect
 
 - "شاب لابس بدلة وبيتكلم في التليفون."
@@ -155,11 +160,6 @@ This project is an interactive interface for generating images based on prompts 
 
 - "رجل يجلس على شاطئ ويراقب الغروب."
 - "طفل يحمل كتابًا ويقرأ تحت شجرة."
-
-#### Saudi Dialect
-
-- "طفل يرتدي الزي الوطني السعودي ويلعب الكرة."
-- "شاب يشرب قهوة في الصحراء."
 
 ---
 
