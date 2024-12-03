@@ -191,6 +191,10 @@ The system evaluates generated images using:
 - **Without Text Transformation**:
 - **With Text Transformation (Gemini English)**:
 
+## Try it !!
+
+- Click on the link : https://972da1fb04765ece33.gradio.live
+
 ## Contributing
 
 We welcome contributions! If you'd like to improve the project:
