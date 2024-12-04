@@ -455,11 +455,9 @@ egyptian_df['Egyptian'] = egyptian_df['Egyptian'].astype(str).apply(preprocess_t
 #search for and count digits in this data frame
 egyptian_df[egyptian_df['Egyptian'].str.contains(r'\d')]
 
-#convert morrocon_df to csv file and save to this file path /content/drive/MyDrive/arabic dialects project faisal/arabic dialects project faisal/Dialects data after Cleaning
 
 morrocon_df.to_csv('/content/drive/MyDrive/Final V Project 283/project Draft/Dialects data after Cleaning/morrocon_dialect_after_cleaning.csv', index=False)
 
-# convert df_khaleji_saudi_arabia to csv file and save to this file path /content/drive/MyDrive/arabic dialects project faisal/arabic dialects project faisal/Dialects data after Cleaning
 
 df_khaleji_saudi_arabia.to_csv('/content/drive/MyDrive/Final V Project 283/project Draft/Dialects data after Cleaning/khaleji_saudi_arabia_dialect_after_cleaning.csv', index=False)
 
