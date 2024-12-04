@@ -186,13 +186,13 @@ generate_images(saudi_model3_captions, image_values, output_dir, "gen_kha_saudi_
 """### **saudi Transformation Gemini MSA**"""
 
 saudi_arabia_msa_gemini_captions = saudi_arabia_msa_gemini['transformed_text'].tolist()
-output_dir = "/content/drive/MyDrive/arabic dialects project faisal/Alt Diffusion Generated Images/generated_saudi_arabia_msa_gemini_images"
+output_dir = ""
 generate_images(saudi_arabia_msa_gemini_captions, image_values, output_dir, "gen_kha_saudi_gemini.jpg")
 
 """### **saudi Transformation Gemini Engish**"""
 
 saudi_arabia_english_gemini_captions = saudi_arabia_english_gemini['transformed_text'].tolist()
-output_dir = "/content/drive/MyDrive/arabic dialects project faisal/Alt Diffusion Generated Images/generated_saudi_arabia_english_gemini_images"
+output_dir = ""
 generate_images(saudi_arabia_english_gemini_captions, image_values, output_dir, "gen_kha_saudi_gemini_eng.jpg")
 
 """## **Egyptain Images Generation**"""
