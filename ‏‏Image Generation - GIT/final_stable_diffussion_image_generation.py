@@ -209,7 +209,7 @@ generate_images(khaleeji_model3_captions, image_values, output_dir, "gen_kha_3.j
 
 khaleeji_model4_captions = df_khaleji_model_4_eng['transformed_text'].tolist()
 
-output_dir = "/content/drive/MyDrive/arabic dialects project faisal/Stable Diffusion Generated Images/khaleeji_generated_images/generated_khaleeji_images_model4_eng"
+output_dir = ""
 generate_images(khaleeji_model4_captions, image_values, output_dir, "gen_kha_4_eng.jpg")
 
 """## **Saudi arabia images generation**
@@ -232,6 +232,6 @@ saudi_model4_captions = df_saudi_model_4_eng['transformed_text'].tolist()
 
 len(saudi_model4_captions)
 
-output_dir = "/content/drive/MyDrive/arabic dialects project faisal/Stable Diffusion Generated Images/saudi_generated_images/generated_saudi_images_model4_eng"
+output_dir = ""
 generate_images(saudi_model4_captions, image_values, output_dir, "gen_kha_saudi_4_eng.jpg")
 
