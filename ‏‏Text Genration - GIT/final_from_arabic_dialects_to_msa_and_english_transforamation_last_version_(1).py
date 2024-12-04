@@ -936,7 +936,6 @@ def clean_data(df, column_name):
   df_copy[column_name] = df_copy[column_name].astype(str).apply(lambda x: re.sub(r"^\d+-?", "", x).strip())
   return df_copy
 
-# prompt: read all the data here /content/drive/MyDrive/arabic dialects project faisal/Text_transformer_dialects_data/Gemini to English data and name df with file name
 
 import pandas as pd
 import os
@@ -948,7 +947,7 @@ def clean_data(df, column_name):
   return df_copy
 
 # Define the directory path
-directory_path = '/content/drive/MyDrive/arabic dialects project faisal/Text_transformer_dialects_data/Gemini to MSA data'
+directory_path = ''
 
 # Iterate through each file in the directory
 for filename in os.listdir(directory_path):
