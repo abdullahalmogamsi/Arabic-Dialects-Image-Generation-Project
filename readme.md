@@ -1,4 +1,5 @@
-# Arabic Dialects Image Generation Project
+# Dialect-Aware Text-to-Image Generation Using Diffusion Models
+### By: Faisal Alsamida, Mohammed Alsulami, Ahmed Aljabri and Abdullah Almughamisi
 
 ![KAUST Logo](https://upload.wikimedia.org/wikipedia/en/thumb/7/70/KAUST_Logo.svg/1200px-KAUST_Logo.svg.png)
 
